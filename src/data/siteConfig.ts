@@ -14,7 +14,7 @@ export const siteConfig: SiteConfig = {
   email: 'connect4orge@gmail.com',
   github: 'https://github.com/4orgeTech',
   linkedin: 'https://www.linkedin.com/in/ibn-amin-267340118/',
-  cvPath: 'cvPath: '/imibin-portfolio/documents/cv.pdf',
+  cvPath: '/imibin-portfolio/documents/cv.pdf',
   navLinks: [
     { label: 'Home', href: '#home' },
     { label: 'About', href: '#about' },
