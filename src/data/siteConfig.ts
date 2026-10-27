@@ -11,9 +11,9 @@ export const siteConfig: SiteConfig = {
     "I care about reproducibility, clean architecture, and honest evaluation. I'm learning to approach problems with rigor: understanding the data, validating assumptions, and building systems that are maintainable beyond a notebook.",
     "This portfolio documents my progression. The projects listed here are roadmap entries — some in progress, most planned — representing the problems I intend to solve and the skills I'm actively developing. As I complete work, I'll update statuses, add real links, and publish technical notes.",
   ],
-  email: 'your.email@example.com',
-  github: 'https://github.com/your-username',
-  linkedin: 'https://linkedin.com/in/your-username',
+  email: 'connect4orge@gmail.com',
+  github: 'https://github.com/4orgeTech',
+  linkedin: 'https://www.linkedin.com/in/ibn-amin-267340118/',
   cvPath: '/documents/cv.pdf',
   navLinks: [
     { label: 'Home', href: '#home' },
@@ -25,8 +25,8 @@ export const siteConfig: SiteConfig = {
     { label: 'Contact', href: '#contact' },
   ],
   socialLinks: [
-    { label: 'Email', url: 'mailto:your.email@example.com', icon: 'mail' },
-    { label: 'GitHub', url: 'https://github.com/your-username', icon: 'github' },
-    { label: 'LinkedIn', url: 'https://linkedin.com/in/your-username', icon: 'linkedin' },
+    { label: 'Email', url: 'connect4orge@gmail.com', icon: 'mail' },
+    { label: 'GitHub', url: 'https://github.com/4orgeTech', icon: 'github' },
+    { label: 'LinkedIn', url: 'https://www.linkedin.com/in/ibn-amin-267340118/', icon: 'linkedin' },
   ],
 };
