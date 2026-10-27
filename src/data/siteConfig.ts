@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
     { label: 'Contact', href: '#contact' },
   ],
   socialLinks: [
-    { label: 'Email', url: 'connect4orge@gmail.com', icon: 'mail' },
+    { label: 'Email', url: 'mailto:connect4orge@gmail.com', icon: 'mail' },
     { label: 'GitHub', url: 'https://github.com/4orgeTech', icon: 'github' },
     { label: 'LinkedIn', url: 'https://www.linkedin.com/in/ibn-amin-267340118/', icon: 'linkedin' },
   ],
